@@ -1,0 +1,26 @@
+{
+  "name": "redenvelope",
+  "version": "1.0.0",
+  "description": "red envelpoes for moac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwang74/RedEnvelope.git"
+  },
+  "keywords": [
+    "MOAC",
+    "RedEnvelope"
+  ],
+  "author": "gwang74",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwang74/RedEnvelope/issues"
+  },
+  "homepage": "https://github.com/gwang74/RedEnvelope#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
+}
